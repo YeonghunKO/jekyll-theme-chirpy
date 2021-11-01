@@ -1,6 +1,6 @@
 ---
 title: "[개발자 블로그] Chirpy테마 게시글 작성 가이드"
-date: 2020-12-13 +0800
+date: 2020-08-27 +0800
 categories: [Javascript, basics]
 tags: [blogging]
 ---
